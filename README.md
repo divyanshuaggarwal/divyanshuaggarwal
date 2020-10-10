@@ -19,7 +19,7 @@
 <br />
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
-### I am Darshan Jain
+### I am Divyanshu Aggarwal
 - A Backend Develepoer & Data Science enthusiast.
 - An Engineering Undergraduate Student at Delhi Technological University. 
 - Currently working on some of my cool side projects based on Web Development,machine learning and natural Language Processing.
