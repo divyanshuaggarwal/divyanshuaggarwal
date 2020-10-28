@@ -23,7 +23,7 @@
 - A Machine learning and Backend Developer.
 - Interested in AI especially Natural Language Processing.
 - An Engineering Undergraduate Student at Delhi Technological University. 
-- Currently working on some of my cool side projects based on Web Development,machine learning and natural Language Processing.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- Currently working on some cool side projects at the intersection of Web Development,machine learning and natural Language Processing.
+- I'm currently looking for opportunities in backend development, machine learning, natural language processing and software development. I love to learn and contribute in any and every possible way.
 
 ⭐️ From [Divyanshu Aggarwal](https://github.com/divyanshuaggarwal)
