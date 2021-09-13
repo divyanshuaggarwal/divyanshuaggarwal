@@ -22,7 +22,7 @@
 ### I am Divyanshu Aggarwal
 - A Machine learning and Backend Developer.
 - Interested in AI especially Natural Language Processing.
-- An Engineering Undergraduate Student at Delhi Technological University. 
+- An Engineering graduate from Delhi Technological University (Formerly DCE). 
 - Currently working on some cool side projects at the intersection of Web Development,machine learning and natural Language Processing.
 - I'm currently looking for opportunities in backend development, machine learning, natural language processing and software development. I love to learn and contribute in any and every possible way.
 
