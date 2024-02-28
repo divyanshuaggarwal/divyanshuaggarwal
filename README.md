@@ -20,7 +20,7 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Divyanshu Aggarwal
-- A Machine learning and NLP Researcher at [Microsoft Research India](https://www.microsoft.com/en-us/research/)
+- Research Fellow at [Microsoft Research India](https://www.microsoft.com/en-us/research/)
 - An Engineering graduate from Delhi Technological University (Formerly DCE). 
 - I work on multilingual NLP, Continual Learning, Language Adaptation and multilingual finetuning of Large Language Models.
 
