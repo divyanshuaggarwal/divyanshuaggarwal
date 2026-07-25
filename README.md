@@ -9,12 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://divyanshuaggarwal.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-7A2434?style=for-the-badge"></a>
-  <a href="https://scholar.google.com/citations?user=WuYKZLAAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-7A2434?style=for-the-badge"></a>
-  <a href="https://divyanshuaggarwal.github.io/resume/"><img alt="Resume" src="https://img.shields.io/badge/Resume-7A2434?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/divyanshu-aggarwal-498894163/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-7A2434?style=for-the-badge"></a>
-  <a href="https://x.com/divyanshuggrwl"><img alt="X" src="https://img.shields.io/badge/X-7A2434?style=for-the-badge"></a>
-  <a href="mailto:divyanshuggrwl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-7A2434?style=for-the-badge"></a>
+  <a href="https://divyanshuaggarwal.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-7A2434?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=WuYKZLAAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-7A2434?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
+  <a href="https://divyanshuaggarwal.github.io/resume/"><img alt="Resume" src="https://img.shields.io/badge/Resume-7A2434?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
+  <a href="https://github.com/divyanshuaggarwal"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-7A2434?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/divyanshu-aggarwal-498894163/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-7A2434?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B"></a>
+  <a href="https://x.com/divyanshuaggarw"><img alt="X" src="https://img.shields.io/badge/X-7A2434?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="mailto:divyanshuggrwl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-7A2434?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -166,8 +167,8 @@ Contributions to the libraries the community uses to train, adapt and interpret 
 **ML systems** &nbsp;
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-7A2434?style=flat-square&logo=pytorch&logoColor=white">
 <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-7A2434?style=flat-square&logo=huggingface&logoColor=white">
-<img alt="DeepSpeed" src="https://img.shields.io/badge/DeepSpeed-7A2434?style=flat-square">
-<img alt="Azure ML" src="https://img.shields.io/badge/Azure%20ML-7A2434?style=flat-square">
+<img alt="DeepSpeed" src="https://img.shields.io/badge/DeepSpeed-7A2434?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMHYxMS40MDhoMTEuNDA4VjB6bTEyLjU5NCAwdjExLjQwOEgyNFYwek0wIDEyLjU5NFYyNGgxMS40MDhWMTIuNTk0em0xMi41OTQgMFYyNEgyNFYxMi41OTR6Ii8%2BPC9zdmc%2B">
+<img alt="Azure ML" src="https://img.shields.io/badge/Azure%20ML-7A2434?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIyLjM3OSAyMy4zNDNhMS42MiAxLjYyIDAgMCAwIDEuNTM2LTIuMTR2LjAwMkwxNy4zNSAxLjc2QTEuNjIgMS42MiAwIDAgMCAxNS44MTYuNjU3SDguMTg0QTEuNjIgMS42MiAwIDAgMCA2LjY1IDEuNzZMLjA4NiAyMS4yMDRhMS42MiAxLjYyIDAgMCAwIDEuNTM2IDIuMTM5aDQuNzQxYTEuNjIgMS42MiAwIDAgMCAxLjUzNS0xLjEwM2wuOTc3LTIuODkyIDQuOTQ3IDMuNjc1Yy4yOC4yMDguNjE4LjMyLjk2Ni4zMm0tMy4wODQtMTIuNTMxIDMuNjI0IDEwLjczOWEuNTQuNTQgMCAwIDEtLjUxLjcxM3YtLjAwMWgtLjAzYS41NC41NCAwIDAgMS0uMzIyLS4xMDZsLTkuMjg3LTYuOWg0Ljg1M202LjMxMyA3LjAwNmMuMTE2LS4zMjYuMTMtLjY5NC4wMDctMS4wNThMOS43OSAxLjc2YTEuNzIyIDEuNzIyIDAgMCAwLS4wMDctLjAyaDYuMDM0YS41NC41NCAwIDAgMSAuNTEyLjM2Nmw2LjU2MiAxOS40NDVhLjU0LjU0IDAgMCAxLS4zMzguNjg0Ii8%2BPC9zdmc%2B">
 <img alt="Distributed training" src="https://img.shields.io/badge/Distributed%20training-7A2434?style=flat-square&logo=nvidia&logoColor=white">
 
 **Engineering** &nbsp;
