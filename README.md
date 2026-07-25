@@ -13,7 +13,6 @@
   <a href="https://scholar.google.com/citations?user=WuYKZLAAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-7A2434?style=for-the-badge"></a>
   <a href="https://divyanshuaggarwal.github.io/resume/"><img alt="Resume" src="https://img.shields.io/badge/Resume-7A2434?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/divyanshu-aggarwal-498894163/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-7A2434?style=for-the-badge"></a>
-  <a href="https://x.com/divyanshuggrwl"><img alt="X" src="https://img.shields.io/badge/X-7A2434?style=for-the-badge"></a>
   <a href="mailto:divyanshuggrwl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-7A2434?style=for-the-badge"></a>
 </p>
 
