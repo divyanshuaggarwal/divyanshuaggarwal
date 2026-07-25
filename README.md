@@ -95,9 +95,9 @@ Understanding model quality across languages, tasks, and modalities, with reprod
 | [<img alt="University of Utah" src="assets/logos/university-of-utah.png" width="150">](https://www.utah.edu/)<br><sub>2021 &ndash; 2022</sub> | Research Collaborator | Dr. Vivek Gupta | Multilingual and tabular NLI; inter-bilingual semantic parsing |
 | [<img alt="IIT Delhi" src="assets/logos/iit-delhi.png" width="150">](https://home.iitd.ac.in/)<br><sub>2020 &ndash; 2021</sub> | Summer Fellowship Research Intern | Dr. Ashwini Vaidya | Multilingual semantic-similarity data and baselines for closely-related Indian languages |
 
-| Education | Degree | |
+| Education | Institution | Degree |
 | :--- | :--- | :--- |
-| [<img alt="Delhi Technological University" src="assets/logos/dtu.png" width="150">](https://dtu.ac.in/) | **B.Tech**, 2021 | <sub>formerly Delhi College of Engineering</sub> |
+| [<img alt="Delhi Technological University" src="assets/logos/dtu.png" width="150">](https://dtu.ac.in/) | **Delhi Technological University**<br><sub>formerly Delhi College of Engineering</sub> | **B.Tech**, 2021 |
 
 </details>
 
