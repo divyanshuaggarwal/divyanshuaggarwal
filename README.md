@@ -75,6 +75,34 @@ Understanding model quality across languages, tasks, and modalities, with reprod
 
 ---
 
+## Experience
+
+| Organization | Role | Selected work |
+| :--- | :--- | :--- |
+| [<img alt="Microsoft" src="assets/logos/microsoft.png" width="150">](https://www.microsoft.com/)<br><sub>Aug 2025 &ndash; Present<br>India</sub> | **Applied Scientist 2**<br><sub>India Applied Sciences</sub> | Finetuning large and small language models to widen application intelligence across new tasks and domains; on-policy distillation of frontier models into cost-efficient, purpose-built SLMs |
+| [<img alt="Microsoft Research India" src="assets/logos/microsoft-research.png" width="150">](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)<br><sub>Sep 2023 &ndash; Jul 2025<br>Bengaluru</sub> | **Research Fellow**<br><sub>Mentored by Dr. Sunayana Sitaram</sub> | Active-forgetting and modular-learning approaches for cross-lingual transfer; catastrophic forgetting and multilingual PEFT; distributed pretraining across 100+ GPUs |
+| [<img alt="American Express" src="assets/logos/american-express.png" width="150">](https://www.americanexpress.com/)<br><sub>Aug 2022 &ndash; Aug 2023<br>Gurugram</sub> | **AI Researcher**<br><sub>AI Labs &middot; Advanced NLP</sub> | LLaMA finetuning for response generation and DeBERTa/RoBERTa classification; abstractive summarization over call logs; petabyte-scale Hadoop data pipelines |
+| <img alt="Builder.ai" src="assets/logos/builder-ai.png" width="150"><br><sub>Mar 2021 &ndash; May 2022<br>India</sub> | **Data Scientist** | Text-based recommendation and conversation-orchestration systems; in-house intent classification for customer conversations |
+
+<details>
+<summary><b>Academic collaborations &amp; education</b></summary>
+
+<br>
+
+| Organization | Role | Advisor | Work |
+| :--- | :--- | :--- | :--- |
+| [<img alt="AI4Bharat" src="assets/logos/ai4bharat.png" width="150">](https://ai4bharat.iitm.ac.in/)<br><sub>2022 &ndash; 2023</sub> | Research Collaborator | Dr. Anoop Kunchukuttan | Evaluating and finetuning LLMs for Indian languages |
+| [<img alt="University of Utah" src="assets/logos/university-of-utah.png" width="150">](https://www.utah.edu/)<br><sub>2021 &ndash; 2022</sub> | Research Collaborator | Dr. Vivek Gupta | Multilingual and tabular NLI; inter-bilingual semantic parsing |
+| [<img alt="IIT Delhi" src="assets/logos/iit-delhi.png" width="150">](https://home.iitd.ac.in/)<br><sub>2020 &ndash; 2021</sub> | Summer Fellowship Research Intern | Dr. Ashwini Vaidya | Multilingual semantic-similarity data and baselines for closely-related Indian languages |
+
+| Education | Institution | Degree |
+| :--- | :--- | :--- |
+| [<img alt="Delhi Technological University" src="assets/logos/dtu.png" width="150">](https://dtu.ac.in/) | **Delhi Technological University**<br><sub>formerly Delhi College of Engineering</sub> | **B.Tech**, 2021 |
+
+</details>
+
+---
+
 ## Recent news
 
 - **Jul 2026** — Two-phase continual instruction finetuning accepted to [ACL 2026 Findings](https://aclanthology.org/2026.findings-acl.1595/).
@@ -126,32 +154,6 @@ Contributions to the libraries the community uses to train, adapt and interpret 
 | [**MEGAVERSE**](https://github.com/microsoft/MEGAVERSE) | NAACL 2024 | Multilingual, multimodal and multi-task LLM benchmark (with Microsoft Research) |
 
 <sub>Project pages: [IndicXNLI](https://indicxnli.github.io/) &nbsp;·&nbsp; [IE-SemParse](https://iesemparse.github.io/) &nbsp;·&nbsp; [XInfoTabS](https://xinfotabs.github.io/)</sub>
-
----
-
-## Experience
-
-| Period | Role | Focus |
-| :--- | :--- | :--- |
-| **Aug 2025 —**<br>**Present** | **Applied Scientist 2**<br><sub>[Microsoft India](https://www.microsoft.com/) · India Applied Sciences</sub> | Post-training and on-policy distillation of frontier models into cost-efficient small language models |
-| **Sep 2023 —**<br>**Jul 2025** | **Research Fellow**<br><sub>[Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)</sub> | Cross-lingual transfer, catastrophic forgetting and multilingual PEFT; distributed pretraining across 100+ GPUs |
-| **Aug 2022 —**<br>**Aug 2023** | **AI Researcher**<br><sub>American Express AI Labs · Advanced NLP</sub> | LLaMA finetuning for response generation, DeBERTa/RoBERTa classification, petabyte-scale data pipelines |
-| **Mar 2021 —**<br>**May 2022** | **Data Scientist**<br><sub>Builder.ai</sub> | Text-based recommendation, conversation orchestration, in-house intent classification |
-
-<details>
-<summary><b>Academic collaborations &amp; education</b></summary>
-
-<br>
-
-| Period | Role | Organization | Advisor |
-| :--- | :--- | :--- | :--- |
-| 2022 — 2023 | Research Collaborator | [AI4Bharat, IIT Madras](https://ai4bharat.iitm.ac.in/) | Dr. Anoop Kunchukuttan |
-| 2021 — 2022 | Research Collaborator | [University of Utah](https://www.utah.edu/) | Dr. Vivek Gupta |
-| 2020 — 2021 | Summer Fellowship Research Intern | [IIT Delhi](https://home.iitd.ac.in/) | Dr. Ashwini Vaidya |
-
-**B.Tech**, [Delhi Technological University](https://dtu.ac.in/) (formerly DCE), 2021.
-
-</details>
 
 ---
 
